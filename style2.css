@@ -1,0 +1,19 @@
+.title{
+    color: indigo;
+    text-align: center;
+}
+.title2{
+    color: rgb(55, 0, 128);
+    text-align: left;
+    margin-left: 4cm;
+}
+
+.image{
+    width: 200px;
+}
+.marg5{
+    margin-left: 5cm;
+}
+.marg6{
+    margin-left: 6cm;
+}
